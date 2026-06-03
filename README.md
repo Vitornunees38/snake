@@ -31,7 +31,8 @@ O projeto foi desenvolvido para praticar conceitos de desenvolvimento mobile e l
 
 ### Gameplay
 
-![Tela Inicial](./Screen_Recording_20260602_225428~2.gif)
+![Tela Inicial]
+<img src="/Screen_Recording_20260602_225428~2.gif" width="250" height="476"/>
 
 ---
 
