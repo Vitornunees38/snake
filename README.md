@@ -1,8 +1,8 @@
-# 🐍 Snake Game Mobile
+# Snake Game Mobile
 
 Um jogo clássico da cobrinha desenvolvido em Flutter para dispositivos móveis.
 
-## 📱 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto recria o tradicional jogo Snake, onde o jogador controla uma cobra que cresce ao consumir alimentos espalhados pelo mapa. O objetivo é alcançar a maior pontuação possível sem colidir com o próprio corpo.
 
@@ -10,7 +10,7 @@ O projeto foi desenvolvido para praticar conceitos de desenvolvimento mobile e l
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Controle da cobra por gestos de deslize
 - Sistema de pontuação
@@ -20,14 +20,14 @@ O projeto foi desenvolvido para praticar conceitos de desenvolvimento mobile e l
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Flutter
 - Dart
 
 ---
 
-## 📸 Demosntação
+## Demosntação
 
 ### Gameplay
 
@@ -35,7 +35,7 @@ O projeto foi desenvolvido para praticar conceitos de desenvolvimento mobile e l
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -55,7 +55,7 @@ flutter run
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Vitor Nunes
 
